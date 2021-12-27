@@ -17,3 +17,9 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-hpinary
 
 [Here](files/IE582-HW3.html) is the Homework3 file.
 [Here](files/IE582-HW3.ipynb) is the related notebook. 
+
+## Homework 4
+
+[Here](files/IE582-HW4.html) is the Homework4 file.
+[Here](files/IE582-HW4.r) is the r-script. 
+[Here](files/IE582-HW4.rmd) is the rmd file. 
