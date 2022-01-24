@@ -26,5 +26,6 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-hpinary
 
 ## Project
 
+[Here](files/IE582-PROJECT_REPORT.pdf) is the project report. 
 [Here](files/IE582-PROJECT.html) is the HTML file for the project codes.
 [Here](files/IE582-PROJECT.ipynb) is the related jupyter notebook. 
