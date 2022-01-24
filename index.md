@@ -23,3 +23,8 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-hpinary
 [Here](files/IE582-HW4.html) is the Homework4 file.
 [Here](files/IE582-HW4.r) is the r-script. 
 [Here](files/IE582-HW4.rmd) is the rmd file. 
+
+## Project
+
+[Here](files/IE582-PROJECT.html) is the HTML file for the project codes.
+[Here](files/IE582-PROJECT.ipynb)) is the related jupyter notebook. 
